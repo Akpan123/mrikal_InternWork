@@ -27,9 +27,13 @@ A real-time collaborative text editor built with the MERN stack and Docker.
 ## How to Run
 
 ### Prerequisites
-- Docker and Docker Compose installed on your machine.
+- Ensure you have the following installed:
+- **Node.js**    
+- **Docker**  
+- **MongoDB** 
 
 ### Steps to Run
+<br>
 1. Clone the repository:
    ```bash
    git clone https://github.com/your-username/collab-text-editor.git
