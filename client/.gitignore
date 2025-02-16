@@ -1,0 +1,23 @@
+# .gitignore
+
+# Node.js
+node_modules/
+npm-debug.log
+
+# Environment variables
+.env
+.env.local
+
+# Docker
+docker-compose.override.yml
+
+# IDE/Editor
+.vscode/
+.idea/
+
+# Build files
+build/
+dist/
+
+# MongoDB data
+data/
